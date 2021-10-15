@@ -48,5 +48,4 @@ Example Output:
 - Use a single output statement to produce this output, using appropriate string-escaping techniques for quotes.
 - If your language supports string interpolation or string substitution, don’t use it for this exercise. Use string concatenation instead.
 
-**Challenge**
-Modify the program so that instead of prompting for quotes from the user, you create a structure that holds quotes and their associated attributions and then display all of the quotes using the format in the example.
+**Challenge**: Modify the program so that instead of prompting for quotes from the user, you create a structure that holds quotes and their associated attributions and then display all of the quotes using the format in the example.
