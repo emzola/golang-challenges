@@ -23,3 +23,7 @@ A repository of my solution to simple golang challenges
 ### 9. Pizza Party
 
 ### 10. Paint Calculator
+
+### 11. Self Checkout
+
+### 12. Currency Conversion
